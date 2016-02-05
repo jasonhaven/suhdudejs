@@ -1,2 +1,2 @@
-#Install
-suhdude <callback>
+# Usage
+suhdude.js ha, [options]
